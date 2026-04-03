@@ -1,0 +1,12 @@
+﻿customer_id,service_time,window_start,window_end,recipes
+0,0.0,0,1440,DEPOT
+1,2.46,960,1440,BBQ Pineapple & Chicken Flatbreads
+2,6.74,0,480,Lemon Herb Organic Chicken & Couscous
+3,8.36,960,1440,Sweet & Smoky Ranch Steak
+4,9.7,960,1440,Za'atar Feta & Chicken Pita Pockets
+5,4.22,0,480,Chicken Sausage Agnolotti in Brown Butter
+6,6.96,0,480,Sweet Potato & Pepper Quesadillas
+7,9.17,960,1440,Low-Lift Al Pastor Beef & Brown Rice Bowls
+8,6.58,480,960,Air Fryer Cajun Chicken & Bacon Sandos
+9,7.67,960,1440,Mexican-Spiced Salmon & Street Corn Rice Bowls
+10,9.97,960,1440,Mexican-Spiced Salmon & Street Corn Rice Bowls
