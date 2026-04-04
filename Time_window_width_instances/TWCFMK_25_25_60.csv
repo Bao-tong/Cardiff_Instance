@@ -1,0 +1,27 @@
+﻿customer_id,service_time,window_start,window_end,recipes
+0,0.0,480,1260,DEPOT
+1,9.51,360,420,Korean BBQ Mushroom & Bacon Sandwiches
+2,2.13,1140,1200,Mushroom & Spinach Ramen with Beef
+3,7.26,840,900,Pesto Shrimp Salad Lettuce Wraps
+4,3.73,600,660,Creamy Chicken Pot Pie
+5,7.5,420,480,Low-Lift Romesco Chicken & Garlic Herb Orzo
+6,7.78,1200,1260,Organic Chicken & Creamy Lemon Zucchini Orzo
+7,3.76,360,420,Sweet Potato & Bacon Quesadillas
+8,5.22,1080,1140,BBQ Flatbreads & Chicken Sausage
+9,9.79,1320,1380,Lemon Herb Salmon & Couscous
+10,9.69,600,660,Firehouse Cheeseburgers
+11,7.19,600,660,Figgy Balsamic Bavette Steak
+12,5.72,1380,1260,Onion Crunch Organic Chicken
+13,8.88,1200,1260,Shawarma Beef & Turmeric Rice Bowls
+14,7.15,180,240,Pear & Walnut-Stuffed Chicken
+15,5.29,420,480,Cheesy Buffalo Chicken Flatbreads
+16,5.3,1380,1260,Crispy Korean-Style BBQ Mushroom Sandwiches
+17,8.0,120,180,Figgy Balsamic Chicken
+18,5.53,1260,1320,Sweet Potato & Bacon Quesadillas
+19,7.63,1200,1260,Mexican-Spiced Chicken & Street Corn Rice Bowls
+20,2.61,60,120,Sheet Pan Crunchy Organic Chicken
+21,7.3,1380,1260,Smoky Mustard Chicken & Roasted Potatoes
+22,6.83,660,720,Spicy Peruvian Bavette Steak
+23,6.43,300,360,Sweet Potato & Pepper Quesadillas
+24,6.46,60,120,Seared Salmon & Tomato-Dill Relish
+25,3.73,1200,1260,Szechuan-Glazed Chicken & Jasmine Rice
